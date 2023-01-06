@@ -32,12 +32,18 @@ Q9. Who is the borrower from India and what is the most/least amount borrowed by
 Q10. What is the total number of Projects that have been repaid?
 
 CONCLUSION
+
 By far, after analyzing the complete dataset, I have come to the conclusion that the World Bank Group has given an exemplary amount of credit to 137 countries for the development in various sectors such as rural upliftment, education, health, etc. and the South Asian Region has accepted most of it.
+
 I have chosen my country that is India and its information about credit status.
+
 So, as per my analysis, there are a total of 454 projects from India that have been running on World Bank credits, and the National Rural Livelihood Project has borrowed the most for the upliftment of people living in rural areas in the country. After looking deep into the dataset, I got to know that India has still repaying the dues, even after the deadline has crossed which means the End of the Period was 30 June 2022.
+
 India has paid back less than the half of average amount of funding. Statistically, it means India is in debt under the World Bank Group.
 
+
 This is my first portfolio project and it has been such a great experience working on it. It helped me to enhance my skills and I hope, it also helps other aspiring data analysts.
+
 Thank you!
 
 
