@@ -1,5 +1,4 @@
-# Portfolio-Project
-Analyzing World Bank Group Financial Data using SQL
+# Analyzing World Bank Group Financial Data using SQL
 
 Being from the economics world, I was excited to explore and analyze the dataset related to this field. I read a lot of current affairs about how the world bank helps in the development of countries by giving credit. There were so many questions in my mind about how the Indian government or any government is dependent upon the credits of the World Bank and which sector is highly influenced by it.
 So, this led me to explore the dataset using Structured Query Language(SQL) to access the data and find insights about the loans and credit given to the countries.
